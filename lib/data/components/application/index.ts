@@ -12,11 +12,13 @@ import { breadcrumbs } from './breadcrumbs';
 import { sidebars } from './sidebars';
 import { navbars } from './navbars';
 import { table } from './table';
+import { tooltips } from './tooltips';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
   sidebars,
   breadcrumbs,
+  tooltips,
   avatars,
   forms,
   buttons,

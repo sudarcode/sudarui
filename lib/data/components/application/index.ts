@@ -13,12 +13,12 @@ import { sidebars } from './sidebars';
 import { navbars } from './navbars';
 import { table } from './table';
 import { tooltips } from './tooltips';
+import { tabs } from './tabs';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
   sidebars,
   breadcrumbs,
-  tooltips,
   avatars,
   forms,
   buttons,
@@ -28,5 +28,7 @@ export const applicationComponents: ComponentType[] = [
   alerts,
   progress,
   skeleton,
-  table
+  table,
+  tooltips,
+  tabs
 ];

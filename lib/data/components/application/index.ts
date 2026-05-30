@@ -12,6 +12,7 @@ import { breadcrumbs } from './breadcrumbs';
 import { sidebars } from './sidebars';
 import { navbars } from './navbars';
 import { table } from './table';
+import { tabs } from './tabs';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -26,5 +27,6 @@ export const applicationComponents: ComponentType[] = [
   alerts,
   progress,
   skeleton,
-  table
+  table,
+  tabs
 ];

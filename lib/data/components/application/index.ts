@@ -12,6 +12,7 @@ import { breadcrumbs } from './breadcrumbs';
 import { sidebars } from './sidebars';
 import { navbars } from './navbars';
 import { table } from './table';
+import { tooltips } from './tooltips';
 import { tabs } from './tabs';
 
 export const applicationComponents: ComponentType[] = [
@@ -28,5 +29,6 @@ export const applicationComponents: ComponentType[] = [
   progress,
   skeleton,
   table,
+  tooltips,
   tabs
 ];

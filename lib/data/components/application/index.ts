@@ -22,6 +22,7 @@ import { radios } from './radios';
 import { checkboxes } from './checkboxes';
 import { selects } from './selects';
 import { inputs } from './inputs';
+import { datePicker } from './date-picker';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -46,5 +47,6 @@ export const applicationComponents: ComponentType[] = [
   radios,
   checkboxes,
   selects,
-  inputs
+  inputs,
+  datePicker
 ];

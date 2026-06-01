@@ -24,8 +24,8 @@ export const toasts: ComponentType = {
     {
       id: 'success-toast',
       name: 'Success Toast',
-      code: `<div class="max-w-xs bg-white dark:bg-gray-800 border-l-4 border-l-green-500 border-y border-r border-y-gray-200 border-r-gray-200 dark:border-y-gray-700 dark:border-r-gray-700 shadow-lg rounded-xl p-4 flex items-start gap-3">
-  <div class="text-green-500 shrink-0">
+      code: `<div class="max-w-xs bg-white dark:bg-gray-800 border-l-4 border-l-lime-500 border-y border-r border-y-gray-200 border-r-gray-200 dark:border-y-gray-700 dark:border-r-gray-700 shadow-lg rounded-xl p-4 flex items-start gap-3">
+  <div class="text-lime-500 shrink-0">
     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
   </div>
   <div class="flex-1">
@@ -61,7 +61,7 @@ export const toasts: ComponentType = {
       code: `<div class="max-w-sm bg-gray-900 dark:bg-white shadow-lg rounded-xl p-4 flex items-center justify-between gap-4">
   <p class="text-sm text-white dark:text-gray-900">1 item deleted from your folder.</p>
   <div class="flex items-center gap-3 shrink-0">
-    <button class="text-sm font-medium text-blue-400 dark:text-blue-600 hover:text-blue-300 dark:hover:text-blue-700 transition-colors">
+    <button class="text-sm font-medium text-lime-400 dark:text-lime-300 hover:text-lime-300 dark:hover:text-lime-400 transition-colors">
       Undo
     </button>
     <div class="w-px h-4 bg-gray-700 dark:bg-gray-300"></div>
@@ -80,7 +80,7 @@ export const toasts: ComponentType = {
   <div class="flex-1">
     <p class="text-sm font-medium text-gray-900 dark:text-white">Sarah Jenkins</p>
     <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">Mentioned you in a comment.</p>
-    <p class="text-xs text-blue-600 dark:text-blue-400 mt-2 hover:underline cursor-pointer">View comment</p>
+    <p class="text-xs text-lime-600 dark:text-lime-400 mt-2 hover:underline cursor-pointer">View comment</p>
   </div>
 </div>`,
       contributor: 'rayasabari',
@@ -91,7 +91,7 @@ export const toasts: ComponentType = {
       code: `<div class="max-w-xs w-full bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow-lg rounded-xl overflow-hidden flex flex-col">
   <div class="p-4 flex items-center justify-between gap-3">
     <div class="flex items-center gap-3">
-      <div class="w-8 h-8 rounded-lg bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 flex items-center justify-center shrink-0">
+      <div class="w-8 h-8 rounded-lg bg-lime-100 dark:bg-lime-900/30 text-lime-600 dark:text-lime-300 flex items-center justify-center shrink-0">
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
       </div>
       <div>
@@ -104,7 +104,7 @@ export const toasts: ComponentType = {
     </button>
   </div>
   <div class="w-full bg-gray-100 dark:bg-gray-700 h-1.5">
-    <div class="bg-blue-600 h-1.5 rounded-r-full" style="width: 75%"></div>
+    <div class="bg-lime-600 dark:bg-lime-300 h-1.5 rounded-r-full" style="width: 75%"></div>
   </div>
 </div>`,
       contributor: 'rayasabari',

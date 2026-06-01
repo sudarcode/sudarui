@@ -75,7 +75,7 @@ export const forms: ComponentType = {
 
         <button
           type="submit"
-          class="w-full bg-lime-600 dark:bg-lime-500 text-white py-3 px-4 rounded-lg font-medium hover:bg-lime-700 dark:hover:bg-lime-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
+          class="w-full bg-lime-600 dark:bg-lime-300 text-white dark:text-gray-900 py-3 px-4 rounded-lg font-medium hover:bg-lime-700 dark:hover:bg-lime-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
         >
           Sign in
         </button>
@@ -224,7 +224,7 @@ export const forms: ComponentType = {
         <div class="flex flex-col sm:flex-row gap-4 pt-4">
           <button
             type="submit"
-            class="flex-1 bg-lime-600 dark:bg-lime-500 text-white py-3 px-6 rounded-lg font-medium hover:bg-lime-700 dark:hover:bg-lime-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
+            class="flex-1 bg-lime-600 dark:bg-lime-300 text-white dark:text-gray-900 py-3 px-6 rounded-lg font-medium hover:bg-lime-700 dark:hover:bg-lime-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
           >
             Send message
           </button>
@@ -370,7 +370,7 @@ export const forms: ComponentType = {
                   <p class="text-sm font-medium text-gray-900 dark:text-white">Email notifications</p>
                   <p class="text-sm text-gray-500 dark:text-gray-400">Receive email updates</p>
                 </div>
-                <button type="button" class="bg-lime-600 dark:bg-lime-500 relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-lime-500 dark:focus:ring-lime-400 focus:ring-offset-2" role="switch" aria-checked="true">
+                <button type="button" class="bg-lime-600 dark:bg-lime-300 relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-lime-500 dark:focus:ring-lime-400 focus:ring-offset-2" role="switch" aria-checked="true">
                   <span class="translate-x-5 pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out"></span>
                 </button>
               </div>
@@ -395,7 +395,7 @@ export const forms: ComponentType = {
               </button>
               <button
                 type="submit"
-                class="bg-lime-600 dark:bg-lime-500 text-white py-2.5 px-6 rounded-lg text-sm font-medium hover:bg-lime-700 dark:hover:bg-lime-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
+                class="bg-lime-600 dark:bg-lime-300 text-white dark:text-gray-900 py-2.5 px-6 rounded-lg text-sm font-medium hover:bg-lime-700 dark:hover:bg-lime-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 dark:focus:ring-offset-gray-800 transition-colors"
               >
                 Save changes
               </button>

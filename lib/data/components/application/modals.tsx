@@ -26,7 +26,7 @@ export const modals: ComponentType = {
       name: 'Confirmation Modal',
       code: `<div class="w-full max-w-md bg-white dark:bg-gray-900 rounded-2xl shadow-xl border border-gray-200 dark:border-gray-800 p-6 flex flex-col gap-4">
   <div class="flex gap-4 items-start">
-    <div class="w-10 h-10 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 flex items-center justify-center shrink-0">
+    <div class="w-10 h-10 rounded-full bg-lime-100 dark:bg-lime-900/30 text-lime-600 dark:text-lime-400 flex items-center justify-center shrink-0">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
     </div>
     <div>
@@ -38,7 +38,7 @@ export const modals: ComponentType = {
     <button class="px-4 py-2 text-gray-700 dark:text-gray-300 font-medium rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
       Later
     </button>
-    <button class="px-4 py-2 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors shadow-sm shadow-blue-600/20">
+    <button class="px-4 py-2 bg-lime-600 text-white font-medium rounded-lg hover:bg-lime-700 transition-colors shadow-sm shadow-lime-600/20">
       Update Now
     </button>
   </div>
@@ -96,18 +96,18 @@ export const modals: ComponentType = {
     <form class="space-y-4">
       <div>
         <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Email Address</label>
-        <input type="email" class="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-colors" placeholder="you@example.com" />
+        <input type="email" class="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-lime-500/20 focus:border-lime-500 transition-colors" placeholder="you@example.com" />
       </div>
       <div>
         <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Password</label>
-        <input type="password" class="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-colors" placeholder="••••••••" />
+        <input type="password" class="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-lime-500/20 focus:border-lime-500 transition-colors" placeholder="••••••••" />
       </div>
       <div class="flex items-center justify-between mt-2">
         <label class="flex items-center gap-2">
-          <input type="checkbox" class="rounded border-gray-300 text-blue-600 focus:ring-blue-500" />
+          <input type="checkbox" class="rounded border-gray-300 text-lime-600 focus:ring-lime-500" />
           <span class="text-sm text-gray-600 dark:text-gray-400">Remember me</span>
         </label>
-        <a href="#" class="text-sm text-blue-600 dark:text-blue-400 hover:underline">Forgot password?</a>
+        <a href="#" class="text-sm text-lime-600 dark:text-lime-400 hover:underline">Forgot password?</a>
       </div>
       <button class="w-full mt-4 py-2.5 bg-gray-900 dark:bg-white text-white dark:text-gray-900 font-medium rounded-lg hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors">
         Sign In
@@ -121,19 +121,19 @@ export const modals: ComponentType = {
       id: 'newsletter-modal',
       name: 'Newsletter Modal',
       code: `<div class="w-full max-w-3xl bg-white dark:bg-gray-900 rounded-2xl shadow-xl border border-gray-200 dark:border-gray-800 overflow-hidden flex flex-col md:flex-row">
-  <div class="md:w-2/5 h-48 md:h-auto bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 relative">
+  <div class="md:w-2/5 h-48 md:h-auto bg-gradient-to-br from-lime-400 via-lime-500 to-lime-600 relative">
     <div class="absolute inset-0 opacity-20 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-white to-transparent"></div>
   </div>
   <div class="md:w-3/5 p-8 relative">
     <button class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
     </button>
-    <span class="text-xs font-bold uppercase tracking-wider text-purple-600 dark:text-purple-400 mb-2 block">Newsletter</span>
+    <span class="text-xs font-bold uppercase tracking-wider text-lime-600 dark:text-lime-400 mb-2 block">Newsletter</span>
     <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">Join our community</h3>
     <p class="text-gray-500 dark:text-gray-400 mb-6">Get weekly updates, tips, and exclusive offers straight to your inbox. No spam, ever.</p>
     <div class="flex flex-col sm:flex-row gap-3">
-      <input type="email" class="flex-1 px-4 py-2.5 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-purple-500/20 focus:border-purple-500 transition-colors" placeholder="Enter your email" />
-      <button class="px-6 py-2.5 bg-purple-600 text-white font-medium rounded-lg hover:bg-purple-700 transition-colors shadow-sm shadow-purple-600/20 whitespace-nowrap">
+      <input type="email" class="flex-1 px-4 py-2.5 rounded-lg border border-gray-200 dark:border-gray-700 bg-transparent text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-lime-500/20 focus:border-lime-500 transition-colors" placeholder="Enter your email" />
+      <button class="px-6 py-2.5 bg-lime-600 text-white font-medium rounded-lg hover:bg-lime-700 transition-colors shadow-sm shadow-lime-600/20 whitespace-nowrap">
         Subscribe
       </button>
     </div>

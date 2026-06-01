@@ -43,19 +43,19 @@ export const stats: ComponentType = {
     </div>
     <div class="grid grid-cols-2 gap-8 w-full md:w-auto">
       <div class="text-center">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">99%</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">99%</div>
         <div class="text-sm text-gray-500 dark:text-gray-400">Customer Satisfaction</div>
       </div>
       <div class="text-center">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">24/7</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">24/7</div>
         <div class="text-sm text-gray-500 dark:text-gray-400">Support Available</div>
       </div>
       <div class="text-center">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">100+</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">100+</div>
         <div class="text-sm text-gray-500 dark:text-gray-400">Updates / Year</div>
       </div>
       <div class="text-center">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">50k+</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">50k+</div>
         <div class="text-sm text-gray-500 dark:text-gray-400">Community Members</div>
       </div>
     </div>
@@ -74,19 +74,19 @@ export const stats: ComponentType = {
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
       <div class="text-center border-r border-gray-200 dark:border-gray-800 last:border-0">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">250+</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">250+</div>
         <div class="text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Projects Completed</div>
       </div>
       <div class="text-center border-r border-gray-200 dark:border-gray-800 last:border-0">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">$10M</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">$10M</div>
         <div class="text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Revenue Generated</div>
       </div>
       <div class="text-center border-r border-gray-200 dark:border-gray-800 last:border-0">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">15+</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">15+</div>
         <div class="text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Awards Won</div>
       </div>
       <div class="text-center">
-        <div class="text-4xl font-bold text-lime-600 dark:text-lime-500 mb-2">5</div>
+        <div class="text-4xl font-bold text-lime-600 dark:text-lime-300 mb-2">5</div>
         <div class="text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Years Experience</div>
       </div>
     </div>

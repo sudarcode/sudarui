@@ -103,8 +103,8 @@ export const footers: ComponentType = {
       <div class="lg:col-span-1">
         <div class="flex items-center space-x-3 mb-4">
           <!-- Logo Placeholder -->
-          <div class="w-10 h-10 bg-gray-900 dark:bg-lime-600 rounded-lg flex items-center justify-center">
-            <span class="text-white font-bold text-xl">SLO</span>
+          <div class="w-10 h-10 bg-gray-900 dark:bg-lime-300 rounded-lg flex items-center justify-center">
+            <span class="text-white dark:text-gray-900 font-bold text-xl">SLO</span>
           </div>
           <span class="text-xl font-semibold text-gray-900 dark:text-white">JokoUI</span>
         </div>
@@ -207,7 +207,7 @@ export const footers: ComponentType = {
           </div>
           <button 
             type="submit" 
-            class="w-full bg-gray-900 dark:bg-lime-600 text-white px-4 py-2.5 text-sm font-medium rounded-lg hover:bg-gray-800 dark:hover:bg-lime-500 transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900 dark:focus:ring-lime-500"
+            class="w-full bg-gray-900 dark:bg-lime-300 text-white px-4 py-2.5 text-sm font-medium rounded-lg hover:bg-gray-800 dark:hover:bg-lime-400 transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900 dark:focus:ring-lime-300 dark:text-gray-900"
           >
             Berlangganan
           </button>

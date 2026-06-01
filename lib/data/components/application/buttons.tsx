@@ -10,7 +10,7 @@ export const buttons: ComponentType = {
     {
       id: 'btn-primary',
       name: 'Primary Button',
-      code: `<button class="px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg shadow-md hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200">
+      code: `<button class="px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg shadow-md hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200 dark:bg-lime-300 dark:text-black dark:hover:bg-lime-400">
   Primary Button
 </button>`,
       contributor: 'rayasabari',
@@ -26,7 +26,7 @@ export const buttons: ComponentType = {
     {
       id: 'btn-outline',
       name: 'Outline Button',
-      code: `<button class="px-6 py-3 border-2 border-lime-600 text-lime-600 font-semibold rounded-lg hover:bg-lime-600 hover:text-white focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200 dark:border-lime-400 dark:text-lime-400 dark:hover:bg-lime-500 dark:hover:text-white">
+      code: `<button class="px-6 py-3 border-2 border-lime-600 text-lime-600 font-semibold rounded-lg hover:bg-lime-600 hover:text-white focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200 dark:border-lime-300 dark:text-lime-300 dark:hover:bg-lime-300 dark:hover:text-black">
   Outline Button
 </button>`,
       contributor: 'rayasabari',
@@ -50,7 +50,7 @@ export const buttons: ComponentType = {
     {
       id: 'btn-icon',
       name: 'Icon Button',
-      code: `<button class="inline-flex items-center gap-2 px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg shadow-md hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200">
+      code: `<button class="inline-flex items-center gap-2 px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg shadow-md hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-200 dark:bg-lime-300 dark:text-black dark:hover:bg-lime-400">
   <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
   </svg>
@@ -61,7 +61,7 @@ export const buttons: ComponentType = {
     {
       id: 'btn-pulse',
       name: 'Pulse Button',
-      code: `<button class="relative px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg overflow-hidden group focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-300 hover:bg-lime-700">
+      code: `<button class="relative px-6 py-3 bg-lime-600 text-white font-semibold rounded-lg overflow-hidden group focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-offset-2 transition-all duration-300 hover:bg-lime-700 dark:bg-lime-300 dark:text-black dark:hover:bg-lime-400">
   <span class="relative z-10">Pulse Button</span>
   <div class="absolute inset-0 bg-lime-400 opacity-0 group-hover:opacity-30 group-hover:animate-ping rounded-lg"></div>
   <div class="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></div>

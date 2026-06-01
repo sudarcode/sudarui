@@ -133,7 +133,7 @@ export const description_list: ComponentType = {
 
       <dl class="relative border-l-2 border-neutral-200 dark:border-neutral-800 ml-3">
         <div class="relative mb-12 pl-8 md:pl-10">
-          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-600 text-white text-sm font-bold shadow-sm">
+          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-300 text-white text-sm font-bold shadow-sm dark:text-gray-900">
             1
           </span>
           <dt class="text-xl md:text-2xl font-bold text-lime-600 dark:text-lime-300 mb-2 md:mb-3">
@@ -145,7 +145,7 @@ export const description_list: ComponentType = {
         </div>
 
         <div class="relative mb-12 pl-8 md:pl-10">
-          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-600 text-white text-sm font-bold shadow-sm">
+          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-300 text-white text-sm font-bold shadow-sm dark:text-gray-900">
             2
           </span>
           <dt class="text-xl md:text-2xl font-bold text-lime-600 dark:text-lime-300 mb-2 md:mb-3">
@@ -157,7 +157,7 @@ export const description_list: ComponentType = {
         </div>
 
         <div class="relative mb-12 pl-8 md:pl-10">
-          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-600 text-white text-sm font-bold shadow-sm">
+          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-300 text-white text-sm font-bold shadow-sm dark:text-gray-900">
             3
           </span>
           <dt class="text-xl md:text-2xl font-bold text-lime-600 dark:text-lime-300 mb-2 md:mb-3">
@@ -169,7 +169,7 @@ export const description_list: ComponentType = {
         </div>
 
         <div class="relative pl-8 md:pl-10">
-          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-600 text-white text-sm font-bold shadow-sm">
+          <span class="absolute -left-4 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 dark:bg-lime-300 text-white text-sm font-bold shadow-sm dark:text-gray-900">
             4
           </span>
           <dt class="text-xl md:text-2xl font-bold text-lime-600 dark:text-lime-300 mb-2 md:mb-3">

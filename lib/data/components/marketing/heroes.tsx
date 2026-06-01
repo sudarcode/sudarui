@@ -14,13 +14,13 @@ export const heroes: ComponentType = {
   <div class="max-w-4xl mx-auto text-center">
     <h1 class="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
       Build Beautiful Websites
-      <span class="text-lime-600 dark:text-lime-400"> Faster</span>
+      <span class="text-lime-600 dark:text-lime-300"> Faster</span>
     </h1>
     <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
       Free Tailwind CSS components to help you create stunning websites without starting from scratch.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="#" class="w-full sm:w-auto px-8 py-4 bg-lime-600 text-white font-semibold rounded-lg hover:bg-lime-700 transition-colors">
+      <a href="#" class="w-full sm:w-auto px-8 py-4 bg-lime-600 text-white dark:bg-lime-300 dark:text-gray-900 dark:hover:bg-lime-400 dark:hover:text-gray-900 font-semibold rounded-lg hover:bg-lime-700 transition-colors">
         Get Started
       </a>
       <a href="#" class="w-full sm:w-auto px-8 py-4 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 font-semibold rounded-lg hover:border-lime-600 hover:text-lime-600 dark:hover:border-lime-400 dark:hover:text-lime-400 transition-colors">
@@ -206,7 +206,7 @@ export const heroes: ComponentType = {
     <div class="max-w-3xl mx-auto text-center">
       <!-- Badge -->
       <div class="inline-flex items-center gap-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300 rounded-full px-4 py-2 mb-8">
-        <span class="w-2 h-2 bg-lime-600 dark:bg-lime-500 rounded-full"></span>
+        <span class="w-2 h-2 bg-lime-600 dark:bg-lime-300 rounded-full"></span>
         <span class="text-sm font-medium text-gray-700 dark:text-gray-300">Version 3.0 is here</span>
       </div>
 
@@ -225,7 +225,7 @@ export const heroes: ComponentType = {
 
       <!-- CTA Buttons -->
       <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-        <button class="px-8 py-3 bg-lime-600 dark:bg-lime-500 text-white font-medium rounded-lg hover:bg-lime-700 dark:hover:bg-lime-600 transition-colors duration-300 shadow-sm hover:shadow-md dark:shadow-gray-800/50">
+        <button class="px-8 py-3 bg-lime-600 dark:bg-lime-300 text-white font-medium rounded-lg hover:bg-lime-700 dark:hover:bg-lime-400 transition-colors duration-300 shadow-sm hover:shadow-md dark:shadow-gray-800/50 dark:text-gray-900">
           Start free trial
         </button>
         <button class="px-8 py-3 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 font-medium rounded-lg border border-gray-300 dark:border-gray-700 hover:border-gray-400 dark:hover:border-gray-600 transition-colors duration-300 shadow-sm dark:shadow-gray-800/30">

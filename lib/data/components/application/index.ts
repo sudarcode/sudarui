@@ -17,6 +17,7 @@ import { tabs } from './tabs';
 import { modals } from './modals';
 import { toasts } from './toasts';
 import { drawers } from './drawers';
+import { toggles } from './toggles';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -36,5 +37,6 @@ export const applicationComponents: ComponentType[] = [
   tabs,
   modals,
   toasts,
-  drawers
+  drawers,
+  toggles
 ];

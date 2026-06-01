@@ -19,6 +19,7 @@ import { toasts } from './toasts';
 import { drawers } from './drawers';
 import { toggles } from './toggles';
 import { radios } from './radios';
+import { checkboxes } from './checkboxes';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -40,5 +41,6 @@ export const applicationComponents: ComponentType[] = [
   toasts,
   drawers,
   toggles,
-  radios
+  radios,
+  checkboxes
 ];

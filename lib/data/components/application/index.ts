@@ -20,6 +20,7 @@ import { drawers } from './drawers';
 import { toggles } from './toggles';
 import { radios } from './radios';
 import { checkboxes } from './checkboxes';
+import { selects } from './selects';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -42,5 +43,6 @@ export const applicationComponents: ComponentType[] = [
   drawers,
   toggles,
   radios,
-  checkboxes
+  checkboxes,
+  selects
 ];

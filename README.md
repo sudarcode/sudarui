@@ -52,14 +52,23 @@ UI components for building functional web applications:
 - [x] Breadcrumbs
 - [x] Buttons
 - [x] Cards
+- [x] Checkboxes
+- [x] Date Pickers
+- [x] Drawers
 - [x] Forms
+- [x] Inputs
 - [x] Loaders
+- [x] Modals
 - [x] Navbars
 - [x] Progress
+- [x] Radios
+- [x] Selects
 - [x] Sidebars
 - [x] Skeletons
 - [x] Tables
 - [x] Tabs
+- [x] Toasts
+- [x] Toggles
 - [x] Tooltips
 
 ### [📣 Marketing](/components/marketing)
@@ -82,10 +91,6 @@ Components for building high-converting landing pages:
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
 ### 📱 Application UI
-- [ ] **Modals & Dialogs**: Confirmation modals, detailed info pop-ups.
-- [ ] **Toast Notifications**: Snackbar alerts for user feedback.
-- [ ] **Drawers / Slide-overs**: Off-canvas side panels.
-- [ ] **Advanced Forms**: Toggles/Switches, Custom Radios, Date Pickers.
 - [ ] **Dropdown Menus & Popovers**: Interactive floating menus.
 - [ ] **Accordions**: Collapsible content panels.
 - [ ] **Carousels / Sliders**: Swipeable content and image galleries.

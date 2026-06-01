@@ -221,7 +221,7 @@ export const faq: ComponentType = {
   <details class="group relative rounded-xl sm:rounded-2xl border-2 border-neutral-200 dark:border-neutral-800 bg-gray-100 dark:bg-gray-800 overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
     
     <!-- Accent bar -->
-    <span class="absolute left-0 top-0 h-full w-1.5 bg-lime-400 dark:bg-lime-600 group-open:bg-lime-500"></span>
+    <span class="absolute left-0 top-0 h-full w-1.5 bg-lime-400 dark:bg-lime-300 group-open:bg-lime-300"></span>
 
     <summary class="flex cursor-pointer list-none items-start gap-3 sm:gap-4 px-5 py-4 sm:px-6 sm:py-5 font-semibold text-sm sm:text-base text-neutral-800 dark:text-neutral-100 hover:bg-lime-50 dark:hover:bg-lime-950/20 transition-colors duration-200">
       <span class="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-lg bg-lime-100 dark:bg-lime-950 text-lime-600 dark:text-lime-400 font-bold text-xs sm:text-sm">
@@ -248,7 +248,7 @@ export const faq: ComponentType = {
 
   <!-- Item -->
   <details class="group relative rounded-xl sm:rounded-2xl border-2 border-neutral-200 dark:border-neutral-800 bg-gray-100 dark:bg-gray-800 overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
-    <span class="absolute left-0 top-0 h-full w-1.5 bg-lime-400 dark:bg-lime-600 group-open:bg-lime-500"></span>
+    <span class="absolute left-0 top-0 h-full w-1.5 bg-lime-400 dark:bg-lime-300 group-open:bg-lime-300"></span>
 
     <!-- Accent bar -->
     <summary class="flex cursor-pointer list-none items-start gap-3 sm:gap-4 px-5 py-4 sm:px-6 sm:py-5 font-semibold text-sm sm:text-base text-neutral-800 dark:text-neutral-100 hover:bg-lime-50 dark:hover:bg-lime-950/20 transition-colors duration-200">

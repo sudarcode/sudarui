@@ -14,7 +14,7 @@ export const navbars: ComponentType = {
   <div class="mx-auto flex h-16 max-w-7xl items-center gap-8 px-4 sm:px-6 lg:px-8">
     <a href="#" title="" class="flex text-xl">
       <span class="font-bold text-gray-700 dark:text-gray-200">YNTK</span>
-      <span class="text-lime-600 dark:text-lime-500">.TS</span>
+      <span class="text-lime-600 dark:text-lime-300">.TS</span>
     </a>
 
     <div class="flex flex-1 items-center justify-end md:justify-between">
@@ -67,7 +67,7 @@ export const navbars: ComponentType = {
     <a href="#" title="" class="flex items-center text-xl">
       <span class="font-bold dark:text-white">Go</span>
       <span class="dark:text-white">Wrong</span>
-      <span class="ml-1 rounded-lg border-2 border-lime-600 px-1 text-base font-medium text-lime-600 dark:border-lime-500 dark:text-lime-500">2.0</span>
+      <span class="ml-1 rounded-lg border-2 border-lime-600 px-1 text-base font-medium text-lime-600 dark:border-lime-300 dark:text-lime-300">2.0</span>
     </a>
 
     <div class="flex flex-1 items-center justify-end md:justify-between">
@@ -159,7 +159,7 @@ export const navbars: ComponentType = {
 
       <div class="flex items-center gap-4">
         <div class="hidden sm:flex sm:gap-4">
-          <a class="rounded-md bg-lime-600 px-5 py-2.5 text-sm font-medium text-white shadow transition hover:bg-lime-700 dark:bg-lime-600 dark:hover:bg-lime-700" href="#"> New Project </a>
+          <a class="rounded-md bg-lime-600 px-5 py-2.5 text-sm font-medium text-white shadow transition hover:bg-lime-700 dark:bg-lime-300 dark:hover:bg-lime-400 dark:text-gray-900" href="#"> New Project </a>
         </div>
 
         <a href="#" class="hidden shrink-0 sm:block">
@@ -243,7 +243,7 @@ export const navbars: ComponentType = {
   <div class="mx-auto flex h-16 max-w-screen-2xl items-center gap-8 px-4 sm:px-6 lg:px-8">
     <div class="flex flex-1 items-center justify-start gap-4 md:gap-8">
       <a class="flex gap-1 text-teal-600 dark:text-teal-500" href="#">
-        <svg class="size-7 text-lime-600 dark:text-lime-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-hexagon-letter-m">
+        <svg class="size-7 text-lime-600 dark:text-lime-300" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-hexagon-letter-m">
           <path stroke="none" d="M0 0h24v24H0z" fill="none" />
           <path d="M19.875 6.27a2.225 2.225 0 0 1 1.125 1.948v7.284c0 .809 -.443 1.555 -1.158 1.948l-6.75 4.27a2.269 2.269 0 0 1 -2.184 0l-6.75 -4.27a2.225 2.225 0 0 1 -1.158 -1.948v-7.285c0 -.809 .443 -1.554 1.158 -1.947l6.75 -3.98a2.33 2.33 0 0 1 2.25 0l6.75 3.98h-.033" />
           <path d="M9 16v-8l3 5l3 -5v8" />

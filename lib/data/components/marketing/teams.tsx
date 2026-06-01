@@ -162,7 +162,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Maya Sari</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Co-Founder / CEO</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Co-Founder / CEO</p>
             <p class="mt-2 text-sm leading-6 text-gray-600 dark:text-gray-400">Led the company from seed to IPO. Passionate about building great teams.</p>
           </div>
         </li>
@@ -170,7 +170,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Dimas Aditya</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Co-Founder / CTO</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Co-Founder / CTO</p>
             <p class="mt-2 text-sm leading-6 text-gray-600 dark:text-gray-400">Technical visionary with 15+ years of experience in distributed systems.</p>
           </div>
         </li>
@@ -178,7 +178,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Rina Wati</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Business Relations</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Business Relations</p>
             <p class="mt-2 text-sm leading-6 text-gray-600 dark:text-gray-400">Connecting people and opportunities. Expert in strategic partnerships.</p>
           </div>
         </li>
@@ -186,7 +186,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Ahmad Fauzi</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Front-end Developer</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Front-end Developer</p>
             <p class="mt-2 text-sm leading-6 text-gray-600 dark:text-gray-400">Crafting beautiful user interfaces with attention to detail and performance.</p>
           </div>
         </li>
@@ -213,7 +213,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full bg-gray-100 dark:bg-gray-800" src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-lg font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Bagus Hermawan</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Co-Founder / CEO</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Co-Founder / CEO</p>
           </div>
         </div>
         <p class="mt-4 text-sm leading-6 text-gray-600 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-gray-300 transition-colors">
@@ -225,7 +225,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full bg-gray-100 dark:bg-gray-800" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-lg font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Indra Wijaya</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Co-Founder / CTO</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Co-Founder / CTO</p>
           </div>
         </div>
         <p class="mt-4 text-sm leading-6 text-gray-600 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-gray-300 transition-colors">
@@ -237,7 +237,7 @@ export const teams: ComponentType = {
           <img class="h-16 w-16 rounded-full bg-gray-100 dark:bg-gray-800" src="https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
           <div>
             <h3 class="text-lg font-semibold leading-7 tracking-tight text-gray-900 dark:text-white">Lina Marlina</h3>
-            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-500">Business Relations</p>
+            <p class="text-sm font-semibold leading-6 text-lime-600 dark:text-lime-300">Business Relations</p>
           </div>
         </div>
         <p class="mt-4 text-sm leading-6 text-gray-600 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-gray-300 transition-colors">

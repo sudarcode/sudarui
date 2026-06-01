@@ -58,7 +58,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" className="scroll-smooth" suppressHydrationWarning>
       <body className={`${poppins.variable} font-sans antialiased`} suppressHydrationWarning>
         {/* Inject JSON-LD Script */}
         <script

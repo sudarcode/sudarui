@@ -14,6 +14,7 @@ Joko UI is a collection of free Tailwind CSS components that can be used in your
 - [Components](#components)
   - [📱 Application](#application)
   - [📣 Marketing](#marketing)
+- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -45,17 +46,62 @@ Joko UI has a growing collection of freely available components:
 
 ### [📱 Application](/components/application)
 UI components for building functional web applications:
-- Authentication Forms
-- Dashboards
-- Settings Pages
-- Data Displays
+- [x] Alerts
+- [x] Avatars
+- [x] Badges
+- [x] Breadcrumbs
+- [x] Buttons
+- [x] Cards
+- [x] Checkboxes
+- [x] Date Pickers
+- [x] Drawers
+- [x] Forms
+- [x] Inputs
+- [x] Loaders
+- [x] Modals
+- [x] Navbars
+- [x] Progress
+- [x] Radios
+- [x] Selects
+- [x] Sidebars
+- [x] Skeletons
+- [x] Tables
+- [x] Tabs
+- [x] Toasts
+- [x] Toggles
+- [x] Tooltips
 
 ### [📣 Marketing](/components/marketing)
 Components for building high-converting landing pages:
-- Hero Sections
-- Feature Grids
-- Pricing Tables
-- Footers
+- [x] Banners
+- [x] Brand Lists
+- [x] CTAs
+- [x] Description Lists
+- [x] FAQ
+- [x] Footers
+- [x] Headers
+- [x] Heroes
+- [x] Pricing
+- [x] Stats
+- [x] Teams
+- [x] Testimonials
+
+## Roadmap
+
+We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
+
+### 📱 Application UI
+- [ ] **Dropdown Menus & Popovers**: Interactive floating menus.
+- [ ] **Accordions**: Collapsible content panels.
+- [ ] **Carousels / Sliders**: Swipeable content and image galleries.
+- [ ] **Pagination**: Page navigation for lists and data tables.
+
+### 🚀 Marketing UI
+- [ ] **Newsletter / Subscribe**: Lead generation sections.
+- [ ] **Feature Sections**: Feature grids and alternating text-image layouts.
+- [ ] **Blog / Article Cards**: Standard layouts for blog content.
+- [ ] **Step / Process Sections**: "How it works" visual steppers.
+- [ ] **404 / Error Pages**: User-friendly fallback pages.
 
 ## Contributing
 

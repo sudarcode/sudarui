@@ -12,7 +12,7 @@ export const tabs: ComponentType = {
       name: 'Underline Tabs',
       code: `<div class="border-b border-gray-200 dark:border-gray-700">
   <nav class="-mb-px flex space-x-8" aria-label="Tabs">
-    <a href="#" class="border-lime-500 text-lime-600 dark:text-lime-500 whitespace-nowrap border-b-2 py-4 px-1 text-sm font-medium" aria-current="page">Dashboard</a>
+    <a href="#" class="border-lime-500 text-lime-600 dark:text-lime-300 whitespace-nowrap border-b-2 py-4 px-1 text-sm font-medium" aria-current="page">Dashboard</a>
     <a href="#" class="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-300 whitespace-nowrap border-b-2 py-4 px-1 text-sm font-medium">Team</a>
     <a href="#" class="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-300 whitespace-nowrap border-b-2 py-4 px-1 text-sm font-medium">Projects</a>
     <a href="#" class="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-300 whitespace-nowrap border-b-2 py-4 px-1 text-sm font-medium">Calendar</a>
@@ -24,7 +24,7 @@ export const tabs: ComponentType = {
       id: 'tabs-segmented',
       name: 'Segmented Control',
       code: `<div class="inline-flex rounded-lg border border-gray-100 bg-gray-100 p-1 dark:border-gray-800 dark:bg-gray-900">
-  <button class="inline-flex items-center gap-2 rounded-md bg-white px-4 py-2 text-sm text-lime-600 shadow-sm focus:relative dark:bg-gray-800 dark:text-lime-500 transition-all duration-200">
+  <button class="inline-flex items-center gap-2 rounded-md bg-white px-4 py-2 text-sm text-lime-600 shadow-sm focus:relative dark:bg-gray-800 dark:text-lime-300 transition-all duration-200">
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
     Home
   </button>
@@ -44,7 +44,7 @@ export const tabs: ComponentType = {
       name: 'Pill Tabs',
       code: `<ul class="flex flex-wrap gap-2 text-sm font-medium text-center text-gray-500 dark:text-gray-400">
   <li>
-    <a href="#" class="inline-block px-4 py-3 text-white bg-lime-600 rounded-lg active hover:bg-lime-700 transition-colors" aria-current="page">Profile</a>
+    <a href="#" class="inline-block px-4 py-3 text-white bg-lime-600 dark:bg-lime-300 dark:hover:bg-lime-400 dark:text-gray-900 rounded-lg active hover:bg-lime-700 transition-colors" aria-current="page">Profile</a>
   </li>
   <li>
     <a href="#" class="inline-block px-4 py-3 rounded-lg hover:text-gray-900 hover:bg-gray-100 dark:hover:bg-gray-800 dark:hover:text-white transition-colors">Dashboard</a>
@@ -63,7 +63,7 @@ export const tabs: ComponentType = {
       name: 'Folder Style Tabs',
       code: `<div class="w-full">
   <div class="flex gap-1 border-b border-gray-300 dark:border-gray-700">
-    <button class="px-6 py-2.5 font-medium text-sm rounded-t-lg bg-white border border-gray-300 border-b-white text-lime-600 -mb-px dark:bg-gray-900 dark:border-gray-700 dark:border-b-gray-900 dark:text-lime-500">
+    <button class="px-6 py-2.5 font-medium text-sm rounded-t-lg bg-white border border-gray-300 border-b-white text-lime-600 -mb-px dark:bg-gray-900 dark:border-gray-700 dark:border-b-gray-900 dark:text-lime-300">
       Preview
     </button>
     <button class="px-6 py-2.5 font-medium text-sm rounded-t-lg bg-gray-50 border border-transparent text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 transition-colors">

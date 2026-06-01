@@ -18,6 +18,7 @@ import { modals } from './modals';
 import { toasts } from './toasts';
 import { drawers } from './drawers';
 import { toggles } from './toggles';
+import { radios } from './radios';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -38,5 +39,6 @@ export const applicationComponents: ComponentType[] = [
   modals,
   toasts,
   drawers,
-  toggles
+  toggles,
+  radios
 ];

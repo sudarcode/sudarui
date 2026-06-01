@@ -16,20 +16,20 @@ export const headers: ComponentType = {
       <div class="shrink-0">
         <a href="#" title="" class="flex text-xl">
           <span class="font-bold">YNTK</span>
-          <span class="text-lime-600 dark:text-lime-500">.TS</span>
+          <span class="text-lime-600 dark:text-lime-300">.TS</span>
         </a>
       </div>
 
       <div class="hidden lg:flex lg:items-center lg:space-x-10">
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Features </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Solutions </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Resources </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Pricing </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Features </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Solutions </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Resources </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Pricing </a>
       </div>
 
       <div class="hidden lg:flex lg:items-center lg:space-x-10">
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Sign in </a>
-        <a href="#" title="" class="px-5 py-2 text-base font-semibold text-white transition-all duration-200 bg-lime-600 rounded-full hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-600" role="button"> Try for free </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Sign in </a>
+        <a href="#" title="" class="px-5 py-2 text-base font-semibold text-white transition-all duration-200 bg-lime-600 dark:bg-lime-300 dark:text-gray-900 dark:hover:bg-lime-400 dark:focus:bg-lime-400 rounded-full hover:bg-lime-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-600 dark:focus:ring-offset-gray-800 dark:focus:ring-lime-500" role="button"> Try for free </a>
       </div>
 
       <button type="button" class="inline-flex p-2 text-black dark:text-white transition-all duration-200 rounded-md lg:hidden focus:bg-gray-100 dark:focus:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-800">
@@ -53,15 +53,15 @@ export const headers: ComponentType = {
           <a href="#" title="" class="flex items-center text-xl">
             <span class="font-bold dark:text-white">Go</span>
             <span class="dark:text-white">Wrong</span>
-            <span class="ml-1 rounded-lg border-2 border-lime-600 px-1 text-base font-medium text-lime-600 dark:border-lime-500 dark:text-lime-500">2.0</span>
+            <span class="ml-1 rounded-lg border-2 border-lime-600 px-1 text-base font-medium text-lime-600 dark:border-lime-300 dark:text-lime-300">2.0</span>
           </a>
         </div>
 
         <div class="mx-auto hidden lg:flex lg:items-center lg:space-x-10">
-          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-500 dark:focus:text-lime-500"> Features </a>
-          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-500 dark:focus:text-lime-500"> Solutions </a>
-          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-500 dark:focus:text-lime-500"> Resources </a>
-          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-500 dark:focus:text-lime-500"> Pricing </a>
+          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-400 dark:focus:text-lime-500"> Features </a>
+          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-400 dark:focus:text-lime-500"> Solutions </a>
+          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-400 dark:focus:text-lime-500"> Resources </a>
+          <a href="#" title="" class="text-base font-medium text-black transition-all duration-200 hover:text-lime-600 focus:text-lime-600 dark:text-white dark:hover:text-lime-400 dark:focus:text-lime-500"> Pricing </a>
         </div>
       </div>
 
@@ -90,7 +90,7 @@ export const headers: ComponentType = {
         <a href="#" title="" class="flex text-xl tracking-wider gap-1 items-center">
           <svg class="size-7 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-picnic-table"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16 7l2 9m-10 -9l-2 9m-1 -9h14m2 5h-18" /></svg>
           <span class="font-semibold">Kay</span>
-          <span class="text-lime-600 dark:text-lime-500">UI</span>
+          <span class="text-lime-600 dark:text-lime-300">UI</span>
         </a>
       </div>
 
@@ -109,10 +109,10 @@ export const headers: ComponentType = {
       </div>
 
       <div class="hidden lg:flex lg:items-center lg:space-x-10">
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Application </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Marketing </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Application </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Marketing </a>
         
-        <a href="#" title="" class="flex items-center justify-center w-10 h-10 text-white bg-black dark:bg-lime-600 rounded-full hover:bg-gray-800 dark:hover:bg-lime-700 transition-all duration-200">
+        <a href="#" title="" class="flex items-center justify-center w-10 h-10 text-white bg-black dark:bg-lime-300 rounded-full hover:bg-gray-800 dark:hover:bg-lime-400 transition-all duration-200 dark:text-gray-900">
             <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                 <path fill-rule="evenodd" d="M7.5 6a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM3.751 20.105a8.25 8.25 0 0116.498 0 .75.75 0 01-.437.695A18.683 18.683 0 0112 22.5c-2.786 0-5.433-.608-7.812-1.7a.75.75 0 01-.437-.695z" clip-rule="evenodd" />
             </svg>
@@ -142,19 +142,19 @@ export const headers: ComponentType = {
       </div>
 
       <div class="hidden lg:flex lg:items-center lg:space-x-10">
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Collections </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> New Arrivals </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Accessories </a>
-        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Sale </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Collections </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> New Arrivals </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Accessories </a>
+        <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Sale </a>
       </div>
 
       <div class="hidden lg:flex lg:items-center lg:space-x-6">
-        <button type="button" class="text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200">
+        <button type="button" class="text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200">
             <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
         </button>
-        <button type="button" class="text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200">
+        <button type="button" class="text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200">
             <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
             </svg>
@@ -199,10 +199,10 @@ export const headers: ComponentType = {
         </div>
 
         <div class="hidden lg:flex lg:items-center lg:space-x-10">
-          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Products </a>
-          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Services </a>
-          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Pricing </a>
-          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-500 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Contact </a>
+          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Products </a>
+          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Services </a>
+          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Pricing </a>
+          <a href="#" title="" class="text-base font-medium text-black dark:text-white hover:text-lime-600 dark:hover:text-lime-400 transition-all duration-200 focus:text-lime-600 dark:focus:text-lime-500"> Contact </a>
         </div>
 
         <div class="hidden lg:flex lg:items-center lg:space-x-10">

@@ -12,6 +12,17 @@ import { breadcrumbs } from './breadcrumbs';
 import { sidebars } from './sidebars';
 import { navbars } from './navbars';
 import { table } from './table';
+import { tooltips } from './tooltips';
+import { tabs } from './tabs';
+import { modals } from './modals';
+import { toasts } from './toasts';
+import { drawers } from './drawers';
+import { toggles } from './toggles';
+import { radios } from './radios';
+import { checkboxes } from './checkboxes';
+import { selects } from './selects';
+import { inputs } from './inputs';
+import { datePicker } from './date-picker';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -26,5 +37,16 @@ export const applicationComponents: ComponentType[] = [
   alerts,
   progress,
   skeleton,
-  table
+  table,
+  tooltips,
+  tabs,
+  modals,
+  toasts,
+  drawers,
+  toggles,
+  radios,
+  checkboxes,
+  selects,
+  inputs,
+  datePicker
 ];

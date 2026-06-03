@@ -46,6 +46,7 @@ Joko UI has a growing collection of freely available components:
 
 ### [📱 Application](/components/application)
 UI components for building functional web applications:
+- [x] Accordions
 - [x] Alerts
 - [x] Avatars
 - [x] Badges
@@ -60,6 +61,7 @@ UI components for building functional web applications:
 - [x] Loaders
 - [x] Modals
 - [x] Navbars
+- [x] Paginations
 - [x] Progress
 - [x] Radios
 - [x] Selects
@@ -92,9 +94,7 @@ We are actively developing new components. Here is our prioritized list of upcom
 
 ### 📱 Application UI
 - [ ] **Dropdown Menus & Popovers**: Interactive floating menus.
-- [ ] **Accordions**: Collapsible content panels.
 - [ ] **Carousels / Sliders**: Swipeable content and image galleries.
-- [ ] **Pagination**: Page navigation for lists and data tables.
 
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.

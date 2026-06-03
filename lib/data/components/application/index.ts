@@ -23,6 +23,7 @@ import { checkboxes } from './checkboxes';
 import { selects } from './selects';
 import { inputs } from './inputs';
 import { datePicker } from './date-picker';
+import { accordions } from './accordions';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
@@ -48,5 +49,6 @@ export const applicationComponents: ComponentType[] = [
   checkboxes,
   selects,
   inputs,
-  datePicker
+  datePicker,
+  accordions
 ];

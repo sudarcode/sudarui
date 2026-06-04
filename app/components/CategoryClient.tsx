@@ -21,7 +21,8 @@ export default function CategoryClient({
   const totalPages = Math.ceil(components.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const currentComponents = components.slice(startIndex, endIndex);
+  // NOTE: Pagination is temporarily disabled to show all components
+  const currentComponents = components;
 
   return (
     <>
@@ -39,19 +40,19 @@ export default function CategoryClient({
         ))}
       </div>
 
-      {/* Pagination */}
-      <Pagination
+      {/* Pagination (temporarily disabled) */}
+      {/* <Pagination
         currentPage={currentPage}
         totalPages={totalPages}
         onPageChange={setCurrentPage}
-      />
+      /> */}
 
-      {/* Page Info */}
-      {totalPages > 1 && (
+      {/* Page Info (temporarily disabled) */}
+      {/* {totalPages > 1 && (
         <div className="text-center text-sm text-muted-foreground mt-4">
           Showing {startIndex + 1}-{Math.min(endIndex, components.length)} of {components.length} components
         </div>
-      )}
+      )} */}
     </>
   );
 }

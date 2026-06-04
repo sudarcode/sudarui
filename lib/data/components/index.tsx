@@ -33,7 +33,8 @@ export function getComponentBySlug(category: string, slug: string): ComponentTyp
 }
 
 export function getComponentsByCategory(category: string): ComponentType[] {
-  return category === 'application' ? applicationComponents : marketingComponents;
+  const components = category === 'application' ? applicationComponents : marketingComponents;
+  return [...components].sort((a, b) => a.name.localeCompare(b.name));
 }
 
 export function getTotalComponentCount(): number {

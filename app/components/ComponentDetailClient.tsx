@@ -19,7 +19,8 @@ export default function ComponentDetailClient({
   const totalPages = Math.ceil(variants.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const currentVariants = variants.slice(startIndex, endIndex);
+  // NOTE: Pagination is temporarily disabled to show all variants
+  const currentVariants = variants;
 
   return (
     <>
@@ -57,19 +58,19 @@ export default function ComponentDetailClient({
         ))}
       </div>
 
-      {/* Pagination */}
-      <Pagination
+      {/* Pagination (temporarily disabled) */}
+      {/* <Pagination
         currentPage={currentPage}
         totalPages={totalPages}
         onPageChange={setCurrentPage}
-      />
+      /> */}
 
-      {/* Page Info */}
-      {totalPages > 1 && (
+      {/* Page Info (temporarily disabled) */}
+      {/* {totalPages > 1 && (
         <div className="text-center text-sm text-muted-foreground mt-4">
           Showing {startIndex + 1}-{Math.min(endIndex, variants.length)} of {variants.length} components
         </div>
-      )}
+      )} */}
     </>
   );
 }

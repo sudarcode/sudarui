@@ -56,6 +56,7 @@ UI components for building functional web applications:
 - [x] Checkboxes
 - [x] Date Pickers
 - [x] Drawers
+- [x] Dropdowns
 - [x] Forms
 - [x] Inputs
 - [x] Loaders
@@ -93,7 +94,6 @@ Components for building high-converting landing pages:
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
 ### 📱 Application UI
-- [ ] **Dropdown Menus & Popovers**: Interactive floating menus.
 - [ ] **Carousels / Sliders**: Swipeable content and image galleries.
 
 ### 🚀 Marketing UI

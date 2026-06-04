@@ -94,7 +94,7 @@ Components for building high-converting landing pages:
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
 ### 📱 Application UI
-- [ ] **Carousels / Sliders**: Swipeable content and image galleries.
+- [x] **Carousels / Sliders**: Swipeable content and image galleries.
 
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.

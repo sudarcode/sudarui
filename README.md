@@ -77,6 +77,7 @@ UI components for building functional web applications:
 
 ### [📣 Marketing](/components/marketing)
 Components for building high-converting landing pages:
+- [x] Author Cards
 - [x] Banners
 - [x] Blog Cards
 - [x] Brand Lists
@@ -98,9 +99,6 @@ We are actively developing new components. Here is our prioritized list of upcom
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.
 - [ ] **Feature Sections**: Feature grids and alternating text-image layouts.
-- [ ] **Blog / Article List**: Compact list layouts for blog posts.
-- [ ] **Author Cards**: Author and user profile cards.
-- [ ] **Stat / Metric Sections**: Key performance indicators and statistics.
 - [ ] **Stepper / Process Sections**: "How it works" visual steppers.
 - [ ] **404 / Error Pages**: User-friendly fallback pages.
 

@@ -12,12 +12,14 @@ import { headers } from './headers';
 import { description_list } from './description-list';
 import { brand_list } from './brand-list';
 import { blog_cards } from './blog-cards';
+import { author_cards } from './author-cards';
 
 export const marketingComponents: ComponentType[] = [
   headers,
   heroes,
   banners,
   blog_cards,
+  author_cards,
   ctas,
   stats,
   description_list,

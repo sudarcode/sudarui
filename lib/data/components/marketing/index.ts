@@ -11,11 +11,13 @@ import { banners } from './banners';
 import { headers } from './headers';
 import { description_list } from './description-list';
 import { brand_list } from './brand-list';
+import { blog_cards } from './blog-cards';
 
 export const marketingComponents: ComponentType[] = [
   headers,
   heroes,
   banners,
+  blog_cards,
   ctas,
   stats,
   description_list,

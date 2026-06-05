@@ -53,6 +53,7 @@ UI components for building functional web applications:
 - [x] Breadcrumbs
 - [x] Buttons
 - [x] Cards
+- [x] Carousels
 - [x] Checkboxes
 - [x] Date Pickers
 - [x] Drawers
@@ -77,6 +78,7 @@ UI components for building functional web applications:
 ### [📣 Marketing](/components/marketing)
 Components for building high-converting landing pages:
 - [x] Banners
+- [x] Blog Cards
 - [x] Brand Lists
 - [x] CTAs
 - [x] Description Lists
@@ -93,14 +95,13 @@ Components for building high-converting landing pages:
 
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
-### 📱 Application UI
-- [x] **Carousels / Sliders**: Swipeable content and image galleries.
-
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.
 - [ ] **Feature Sections**: Feature grids and alternating text-image layouts.
-- [ ] **Blog / Article Cards**: Standard layouts for blog content.
-- [ ] **Step / Process Sections**: "How it works" visual steppers.
+- [ ] **Blog / Article List**: Compact list layouts for blog posts.
+- [ ] **Author Cards**: Author and user profile cards.
+- [ ] **Stat / Metric Sections**: Key performance indicators and statistics.
+- [ ] **Stepper / Process Sections**: "How it works" visual steppers.
 - [ ] **404 / Error Pages**: User-friendly fallback pages.
 
 ## Contributing

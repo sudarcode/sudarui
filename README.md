@@ -84,6 +84,7 @@ Components for building high-converting landing pages:
 - [x] CTAs
 - [x] Description Lists
 - [x] FAQ
+- [x] Feature Sections
 - [x] Footers
 - [x] Headers
 - [x] Heroes
@@ -98,7 +99,6 @@ We are actively developing new components. Here is our prioritized list of upcom
 
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.
-- [ ] **Feature Sections**: Feature grids and alternating text-image layouts.
 - [ ] **Stepper / Process Sections**: "How it works" visual steppers.
 - [ ] **404 / Error Pages**: User-friendly fallback pages.
 

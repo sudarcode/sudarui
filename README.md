@@ -90,6 +90,7 @@ Components for building high-converting landing pages:
 - [x] Heroes
 - [x] Pricing
 - [x] Stats
+- [x] Steppers
 - [x] Teams
 - [x] Testimonials
 
@@ -99,7 +100,7 @@ We are actively developing new components. Here is our prioritized list of upcom
 
 ### 🚀 Marketing UI
 - [ ] **Newsletter / Subscribe**: Lead generation sections.
-- [ ] **Stepper / Process Sections**: "How it works" visual steppers.
+- [x] **Stepper / Process Sections**: "How it works" visual steppers.
 - [ ] **404 / Error Pages**: User-friendly fallback pages.
 
 ## Contributing

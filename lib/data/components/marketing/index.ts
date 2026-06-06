@@ -14,6 +14,7 @@ import { brand_list } from './brand-list';
 import { blog_cards } from './blog-cards';
 import { author_cards } from './author-cards';
 import { feature_sections } from './feature-sections';
+import { steppers } from './steppers';
 
 export const marketingComponents: ComponentType[] = [
   headers,
@@ -30,5 +31,6 @@ export const marketingComponents: ComponentType[] = [
   testimonials,
   faq,
   footers,
-  brand_list
+  brand_list,
+  steppers
 ];

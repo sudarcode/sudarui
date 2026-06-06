@@ -31,6 +31,7 @@ import { carousels } from './carousels';
 export const applicationComponents: ComponentType[] = [
   navbars,
   sidebars,
+  dropdowns,
   breadcrumbs,
   avatars,
   forms,
@@ -55,6 +56,5 @@ export const applicationComponents: ComponentType[] = [
   datePicker,
   accordions,
   paginations,
-  dropdowns,
   carousels
 ];

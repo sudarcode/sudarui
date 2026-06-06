@@ -21,11 +21,11 @@ import { error_pages } from './error-pages';
 export const marketingComponents: ComponentType[] = [
   headers,
   heroes,
+  ctas,
   banners,
   blog_cards,
   author_cards,
   feature_sections,
-  ctas,
   stats,
   description_list,
   pricing,

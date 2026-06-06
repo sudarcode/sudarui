@@ -88,6 +88,7 @@ Components for building high-converting landing pages:
 - [x] Footers
 - [x] Headers
 - [x] Heroes
+- [x] Newsletter
 - [x] Pricing
 - [x] Stats
 - [x] Steppers
@@ -99,8 +100,6 @@ Components for building high-converting landing pages:
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
 ### 🚀 Marketing UI
-- [ ] **Newsletter / Subscribe**: Lead generation sections.
-- [x] **Stepper / Process Sections**: "How it works" visual steppers.
 - [ ] **404 / Error Pages**: User-friendly fallback pages.
 
 ## Contributing

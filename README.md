@@ -7,6 +7,8 @@
 
 Joko UI is a collection of free Tailwind CSS components that can be used in your next project. With a range of copy-paste ready components, you can build your next marketing website, admin dashboard, eCommerce store and much more without installing any heavy dependencies.
 
+**[📚 View Documentation](https://www.jokoui.web.id/)**
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -99,6 +101,29 @@ Components for building high-converting landing pages:
 ## Roadmap
 
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
+
+### 📱 Application UI
+- [ ] Textareas
+- [ ] Sliders (input)
+- [ ] File Uploads
+- [ ] Dividers
+- [ ] Containers
+- [ ] Grid (Stack)
+- [ ] Headings
+- [ ] Labels
+- [ ] Captions (helper text)
+- [ ] Code (inline code)
+- [ ] Error States
+- [ ] Empty States
+- [ ] Data Grid
+- [ ] Lists
+- [ ] Timelines
+- [ ] Tree View
+
+### 📣 Marketing UI
+- [ ] Ratings (Review)
+- [ ] Lead Forms
+- [ ] Mega Menus
 
 ## Contributing
 

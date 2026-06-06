@@ -7,6 +7,8 @@
 
 Joko UI is a collection of free Tailwind CSS components that can be used in your next project. With a range of copy-paste ready components, you can build your next marketing website, admin dashboard, eCommerce store and much more without installing any heavy dependencies.
 
+**[📚 View Documentation](https://www.jokoui.web.id/)**
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -46,20 +48,24 @@ Joko UI has a growing collection of freely available components:
 
 ### [📱 Application](/components/application)
 UI components for building functional web applications:
+- [x] Accordions
 - [x] Alerts
 - [x] Avatars
 - [x] Badges
 - [x] Breadcrumbs
 - [x] Buttons
 - [x] Cards
+- [x] Carousels
 - [x] Checkboxes
 - [x] Date Pickers
 - [x] Drawers
+- [x] Dropdowns
 - [x] Forms
 - [x] Inputs
 - [x] Loaders
 - [x] Modals
 - [x] Navbars
+- [x] Paginations
 - [x] Progress
 - [x] Radios
 - [x] Selects
@@ -73,16 +79,22 @@ UI components for building functional web applications:
 
 ### [📣 Marketing](/components/marketing)
 Components for building high-converting landing pages:
+- [x] Author Cards
 - [x] Banners
+- [x] Blog Cards
 - [x] Brand Lists
 - [x] CTAs
 - [x] Description Lists
+- [x] Error Pages
 - [x] FAQ
+- [x] Feature Sections
 - [x] Footers
 - [x] Headers
 - [x] Heroes
+- [x] Newsletter
 - [x] Pricing
 - [x] Stats
+- [x] Steppers
 - [x] Teams
 - [x] Testimonials
 
@@ -91,17 +103,27 @@ Components for building high-converting landing pages:
 We are actively developing new components. Here is our prioritized list of upcoming additions. If you'd like to contribute, feel free to pick any unchecked item and submit a PR!
 
 ### 📱 Application UI
-- [ ] **Dropdown Menus & Popovers**: Interactive floating menus.
-- [ ] **Accordions**: Collapsible content panels.
-- [ ] **Carousels / Sliders**: Swipeable content and image galleries.
-- [ ] **Pagination**: Page navigation for lists and data tables.
+- [ ] Textareas
+- [ ] Sliders (input)
+- [ ] File Uploads
+- [ ] Dividers
+- [ ] Containers
+- [ ] Grid (Stack)
+- [ ] Headings
+- [ ] Labels
+- [ ] Captions (helper text)
+- [ ] Code (inline code)
+- [ ] Error States
+- [ ] Empty States
+- [ ] Data Grid
+- [ ] Lists
+- [ ] Timelines
+- [ ] Tree View
 
-### 🚀 Marketing UI
-- [ ] **Newsletter / Subscribe**: Lead generation sections.
-- [ ] **Feature Sections**: Feature grids and alternating text-image layouts.
-- [ ] **Blog / Article Cards**: Standard layouts for blog content.
-- [ ] **Step / Process Sections**: "How it works" visual steppers.
-- [ ] **404 / Error Pages**: User-friendly fallback pages.
+### 📣 Marketing UI
+- [ ] Ratings (Review)
+- [ ] Lead Forms
+- [ ] Mega Menus
 
 ## Contributing
 

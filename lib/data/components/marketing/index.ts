@@ -11,12 +11,21 @@ import { banners } from './banners';
 import { headers } from './headers';
 import { description_list } from './description-list';
 import { brand_list } from './brand-list';
+import { blog_cards } from './blog-cards';
+import { author_cards } from './author-cards';
+import { feature_sections } from './feature-sections';
+import { steppers } from './steppers';
+import { newsletter } from './newsletter';
+import { error_pages } from './error-pages';
 
 export const marketingComponents: ComponentType[] = [
   headers,
   heroes,
-  banners,
   ctas,
+  banners,
+  blog_cards,
+  author_cards,
+  feature_sections,
   stats,
   description_list,
   pricing,
@@ -24,5 +33,8 @@ export const marketingComponents: ComponentType[] = [
   testimonials,
   faq,
   footers,
-  brand_list
+  brand_list,
+  steppers,
+  newsletter,
+  error_pages
 ];

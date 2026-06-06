@@ -23,10 +23,15 @@ import { checkboxes } from './checkboxes';
 import { selects } from './selects';
 import { inputs } from './inputs';
 import { datePicker } from './date-picker';
+import { accordions } from './accordions';
+import { paginations } from './paginations';
+import { dropdowns } from './dropdowns';
+import { carousels } from './carousels';
 
 export const applicationComponents: ComponentType[] = [
   navbars,
   sidebars,
+  dropdowns,
   breadcrumbs,
   avatars,
   forms,
@@ -48,5 +53,8 @@ export const applicationComponents: ComponentType[] = [
   checkboxes,
   selects,
   inputs,
-  datePicker
+  datePicker,
+  accordions,
+  paginations,
+  carousels
 ];

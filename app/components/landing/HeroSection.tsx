@@ -37,7 +37,7 @@ export default function HeroSection({ totalComponents }: HeroSectionProps) {
           <div className="flex items-center gap-1 justify-center mb-6">
             <IconFlower className='size-[55px] sm:size-[64px] md:size-[78px] lg:size-[98px] text-primary animate-spin [animation-duration:5s]' />
             <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-foreground  leading-tight">
-              Joko
+              Sudar
               <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
                 UI
               </span>
@@ -83,7 +83,7 @@ export default function HeroSection({ totalComponents }: HeroSectionProps) {
               Browse Components
             </Link>
             <a
-              href="https://github.com/rayasabari/joko-ui"
+              href="https://github.com/sudarcode/sudarui"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 glass-button rounded-full font-semibold

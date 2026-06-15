@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PageProps) {
   const { category } = await params;
 
   if (category !== "application" && category !== "marketing") {
-    return { title: "Category Not Found - Joko UI" };
+    return { title: "Category Not Found - Sudar UI" };
   }
 
   const title = category === "application" ? "Application Components" : "Marketing Components";
@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: PageProps) {
     : "Marketing and landing page components with Tailwind CSS";
 
   return {
-    title: `${title} - Joko UI`,
+    title: `${title} - Sudar UI`,
     description,
   };
 }

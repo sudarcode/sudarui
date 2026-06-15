@@ -12,7 +12,7 @@ const poppins = Poppins({
   weight: ["300", "400", "500", "600", "700", "800"],
 });
 
-const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.sudar.web.id'
 
 const jsonLd = {
   '@context': 'https://schema.org',
